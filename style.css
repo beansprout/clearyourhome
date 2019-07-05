@@ -1,7 +1,33 @@
 body {
-  background-color: powderblue;
+  margin: 10px;
+  color: #333;
 }
 
 h1 {
+  text-align: center;
+  font-size: 38px;
+  font-family: helvetica,arial,sans-serif;
+}
+
+#main-container {
+  margin: 50px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+li {
+  margin-bottom: 0.8em;
+}
+
+img {
+  padding: 20px;
+}
+
+.center-text {
   text-align: center;
 }
